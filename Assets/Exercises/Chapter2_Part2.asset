@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86895f3475054f4087b6787619d0ea7, type: 3}
+  m_Name: Chapter2_Part2
+  m_EditorClassIdentifier: Assembly-CSharp::ExerciseChapter
+  chapterTitle: "Chapter 2 - \u0E02\u0E32\u0E25\u0E07"
+  description: 
+  bpm: 70
+  notes:
+  - keyIndex: 21
+    displayName: Fa'
+    beats: 1
+    keyIndex2: 14
+    displayName2: Fa
+  - keyIndex: 20
+    displayName: Mi'
+    beats: 1
+    keyIndex2: 13
+    displayName2: Mi
+  - keyIndex: 19
+    displayName: Re'
+    beats: 1
+    keyIndex2: 12
+    displayName2: Re
+  - keyIndex: 20
+    displayName: Mi'
+    beats: 1
+    keyIndex2: 13
+    displayName2: Mi
+  - keyIndex: 19
+    displayName: Re'
+    beats: 1
+    keyIndex2: 12
+    displayName2: Re
+  - keyIndex: 18
+    displayName: Do'
+    beats: 1
+    keyIndex2: 11
+    displayName2: Do
+  - keyIndex: 19
+    displayName: Re'
+    beats: 1
+    keyIndex2: 12
+    displayName2: Re
+  - keyIndex: 18
+    displayName: Do'
+    beats: 1
+    keyIndex2: 11
+    displayName2: Do
+  - keyIndex: 17
+    displayName: Ti
+    beats: 1
+    keyIndex2: 10
+    displayName2: Ti,
+  - keyIndex: 18
+    displayName: Do'
+    beats: 1
+    keyIndex2: 11
+    displayName2: Do
+  - keyIndex: 17
+    displayName: Ti
+    beats: 1
+    keyIndex2: 10
+    displayName2: Ti,
+  - keyIndex: 16
+    displayName: La
+    beats: 1
+    keyIndex2: 9
+    displayName2: La,
+  - keyIndex: 17
+    displayName: Ti
+    beats: 1
+    keyIndex2: 10
+    displayName2: Ti,
+  - keyIndex: 16
+    displayName: La
+    beats: 1
+    keyIndex2: 9
+    displayName2: La,
+  - keyIndex: 15
+    displayName: Sol
+    beats: 1
+    keyIndex2: 8
+    displayName2: Sol,
+  - keyIndex: 16
+    displayName: La
+    beats: 1
+    keyIndex2: 9
+    displayName2: La,
+  - keyIndex: 15
+    displayName: Sol
+    beats: 1
+    keyIndex2: 8
+    displayName2: Sol,
+  - keyIndex: 14
+    displayName: Fa
+    beats: 1
+    keyIndex2: 7
+    displayName2: Fa,
+  - keyIndex: 15
+    displayName: Sol
+    beats: 1
+    keyIndex2: 8
+    displayName2: Sol,
+  - keyIndex: 14
+    displayName: Fa
+    beats: 1
+    keyIndex2: 7
+    displayName2: Fa,
+  - keyIndex: 13
+    displayName: Mi
+    beats: 1
+    keyIndex2: 6
+    displayName2: Mi,
+  - keyIndex: 14
+    displayName: Fa
+    beats: 1
+    keyIndex2: 7
+    displayName2: Fa,
+  - keyIndex: 13
+    displayName: Mi
+    beats: 1
+    keyIndex2: 6
+    displayName2: Mi,
+  - keyIndex: 12
+    displayName: Re
+    beats: 1
+    keyIndex2: 5
+    displayName2: Re,
+  - keyIndex: 13
+    displayName: Mi
+    beats: 1
+    keyIndex2: 6
+    displayName2: Mi,
+  - keyIndex: 12
+    displayName: Re
+    beats: 1
+    keyIndex2: 5
+    displayName2: Re,
+  - keyIndex: 11
+    displayName: Do
+    beats: 1
+    keyIndex2: 4
+    displayName2: Do,
+  - keyIndex: 12
+    displayName: Re
+    beats: 1
+    keyIndex2: 5
+    displayName2: Re,
+  - keyIndex: 11
+    displayName: Do
+    beats: 1
+    keyIndex2: 4
+    displayName2: Do,
+  - keyIndex: 10
+    displayName: Ti,
+    beats: 1
+    keyIndex2: 3
+    displayName2: Ti,,
+  - keyIndex: 11
+    displayName: Do
+    beats: 1
+    keyIndex2: 4
+    displayName2: Do,
+  - keyIndex: 10
+    displayName: Ti,
+    beats: 1
+    keyIndex2: 3
+    displayName2: Ti,,
+  - keyIndex: 9
+    displayName: La,
+    beats: 1
+    keyIndex2: 2
+    displayName2: La,,
+  - keyIndex: 10
+    displayName: Ti,
+    beats: 1
+    keyIndex2: 3
+    displayName2: Ti,,
+  - keyIndex: 9
+    displayName: La,
+    beats: 1
+    keyIndex2: 2
+    displayName2: La,,
+  - keyIndex: 8
+    displayName: Sol,
+    beats: 1
+    keyIndex2: 1
+    displayName2: Sol,,
